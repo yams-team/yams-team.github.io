@@ -1,1 +1,0 @@
-# yams-team.github.io
