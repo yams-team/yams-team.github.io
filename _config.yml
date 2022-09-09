@@ -1,0 +1,4 @@
+locale: de-DE
+title: YAMS
+title_separator: "/"
+markdown: kramdown
